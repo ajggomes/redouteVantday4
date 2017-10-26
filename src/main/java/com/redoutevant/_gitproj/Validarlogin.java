@@ -8,7 +8,7 @@ package com.redoutevant._gitproj;
 /**
  *
  * @author Antonio gomes
- * @serial 20171026 - 09:48
+ * @serial 20171026 - 09:55
  */
 public class Validarlogin {
     String username;
@@ -19,6 +19,9 @@ public class Validarlogin {
 
     public void setUsername(String username) {
         this.username = username;
+    }
+    
+    public static void main(String args[]) {
     }
     
 }
